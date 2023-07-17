@@ -1,3 +1,3 @@
+# Archive of plaintextgroup.com
 
-(cat */* | grep web
-flow.com | uniq) > out.txt
+Hosts reports available at https://www.schmidtfutures.com/our-work/plaintext/.
